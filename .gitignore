@@ -10,3 +10,6 @@
 
 # but ignore those files in the test directory
 **/test/
+
+# and ignore gitignore in subdirectories
+**/.gitignore
